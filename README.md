@@ -32,7 +32,7 @@ frontend/
 │   └── js/        # Archivos JavaScript 
 ├── index.html     # Página principal del sitio
 └── README.md      # Documentación del proyecto
-
+```
 
 ## Flujo de Trabajo Básico
 
