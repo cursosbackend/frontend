@@ -24,16 +24,14 @@ Este proyecto es parte del curso de Frontend y está diseñado para que los estu
 
 La organización básica del proyecto es la siguiente:
 
+```plaintext
 frontend/
 ├── assets/
-│   ├── css/
-│   ├── img/
-│   └── js/       # (opcional)
-├── index.html
-└── README.md
-
-
-
+│   ├── css/       # Hojas de estilo (CSS)
+│   ├── img/       # Imágenes del sitio
+│   └── js/        # Archivos JavaScript 
+├── index.html     # Página principal del sitio
+└── README.md      # Documentación del proyecto
 
 
 ## Flujo de Trabajo Básico
